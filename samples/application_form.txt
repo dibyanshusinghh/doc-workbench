@@ -1,0 +1,23 @@
+OPERATOR LICENCE APPLICATION FORM
+(Synthetic test document - all names, numbers and addresses are fictional)
+
+Section A - Applicant Details
+Company Name: Northwind Logistics Ltd
+Registration Number: 09876543
+Registered Address: 14 Harbour Road, Bristol, BS1 4QA
+Director: Jane Fictional
+Date of Incorporation: 12/05/2016
+
+Section B - Licence Details
+Licence Number: NWL-88231
+Licence Type: Standard International
+Licence Expiry Date: 31/12/2026
+
+Section C - Financial Information
+Annual Revenue: £2,450,000
+Net Profit: £310,000
+
+Section D - Declaration
+Application Date: 3 March 2025
+The applicant must submit audited accounts within 90 days of approval
+and pay the licence fee of £1,250 by 30 April 2025.

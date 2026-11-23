@@ -1,0 +1,12 @@
+BANK REFERENCE LETTER
+(Synthetic test document - all names, numbers and addresses are fictional)
+
+Date: 20 February 2025
+Business Name: Northwind Logistics Ltd
+Registered Address: 14 Harbour Road, Bristol, BS1 4QA
+Account Number: 00112233
+Account Opened: 01/06/2016
+Average Monthly Balance: £185,000
+
+The customer has held an account with us since June 2016 and has met
+all obligations to date.
